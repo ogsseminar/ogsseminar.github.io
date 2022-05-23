@@ -1,0 +1,106 @@
+HTTrack3.49-2 launched on Mon, 23 May 2022 17:14:35 at http://ogs-seminar.narod.ru/
+(httrack http://ogs-seminar.narod.ru/ )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:15:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 232424 got 181000): ogs-seminar.narod.ru/materials/Doklady431_2_SmolyanovShamarov.pdf
+17:16:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 365056 got 144800): ogs-seminar.narod.ru/materials/TrushechkinVolovich_Tsim288.pdf
+17:16:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 322347 got 186792): ogs-seminar.narod.ru/materials/Trushechkin_ON_STANDARDS_AND_SPECIFICATIONS_IJQI_0602_P347.pdf
+17:16:17	Warning: 	file not stored in cache due to bogus state (broken size, expected 498796 got 150592): ogs-seminar.narod.ru/materials/TrushechkinVolovich_Functional_Classical_Mechanics_V1N4_361-367.pdf
+17:16:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 1432136 got 165072): ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf
+17:16:44	Warning: 	file not stored in cache due to bogus state (broken size, expected 1375686 got 186792): ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf
+17:16:48	Warning: 	file not stored in cache due to bogus state (broken size, expected 265421 got 153488): ogs-seminar.narod.ru/materials/SergeevAG_QUTS.pdf
+17:16:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 355064 got 150592): ogs-seminar.narod.ru/materials/Sakbaev_IDAQPRT_1301_P65.pdf
+17:17:33	Warning: 	file not stored in cache due to bogus state (broken size, expected 515704 got 214304): ogs-seminar.narod.ru/materials/BikchentaevMatZam2011.pdf
+17:17:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 1261742 got 163624): ogs-seminar.narod.ru/photos/strekalov.JPG
+17:17:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 819764 got 156384): ogs-seminar.narod.ru/photos/starodubov.jpg
+17:18:04	Warning: 	file not stored in cache due to bogus state (broken size, expected 1049093 got 160728): ogs-seminar.narod.ru/photos/lelyavin.jpg
+17:18:13	Warning: 	file not stored in cache due to bogus state (broken size, expected 1117301 got 152040): ogs-seminar.narod.ru/photos/vasilieva.jpg
+17:18:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 939982 got 176656): ogs-seminar.narod.ru/photos/dremov.jpg
+17:18:39	Warning: 	file not stored in cache due to bogus state (broken size, expected 1000906 got 179552): ogs-seminar.narod.ru/photos/volkov.jpg
+17:18:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 969655 got 165072): ogs-seminar.narod.ru/photos/duryagin.jpg
+17:19:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 1287213 got 181000): ogs-seminar.narod.ru/photos/zevahin.JPG
+17:19:14	Warning: 	file not stored in cache due to bogus state (broken size, expected 1233992 got 188240): ogs-seminar.narod.ru/photos/chugreeva.JPG
+17:20:51	Warning: 	Retry after error -4 (Incorrect length (181000 Bytes, 232424 expected)) at link ogs-seminar.narod.ru/materials/Doklady431_2_SmolyanovShamarov.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:20:51	Error: 	"Not Found" (404) at link ogs-seminar.narod.ru/Doklady404_2_05VolovichTrushechkin.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:20:51	Warning: 	Retry after error -4 (Incorrect length (144800 Bytes, 365056 expected)) at link ogs-seminar.narod.ru/materials/TrushechkinVolovich_Tsim288.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:20:51	Warning: 	Retry after error -4 (Incorrect length (186792 Bytes, 322347 expected)) at link ogs-seminar.narod.ru/materials/Trushechkin_ON_STANDARDS_AND_SPECIFICATIONS_IJQI_0602_P347.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:20:51	Warning: 	Retry after error -4 (Incorrect length (150592 Bytes, 498796 expected)) at link ogs-seminar.narod.ru/materials/TrushechkinVolovich_Functional_Classical_Mechanics_V1N4_361-367.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:20:59	Warning: 	Retry after error -4 (Incorrect length (165072 Bytes, 1432136 expected)) at link ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:21:13	Warning: 	Retry after error -4 (Incorrect length (186792 Bytes, 1375686 expected)) at link ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:21:25	Warning: 	file not stored in cache due to bogus state (broken size, expected 365056 got 354760): ogs-seminar.narod.ru/materials/TrushechkinVolovich_Tsim288.pdf
+17:21:25	Warning: 	Retry after error -4 (Incorrect length (153488 Bytes, 265421 expected)) at link ogs-seminar.narod.ru/materials/SergeevAG_QUTS.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:21:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 1432136 got 330144): ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf
+17:21:27	Warning: 	file not stored in cache due to bogus state (broken size, expected 498796 got 364896): ogs-seminar.narod.ru/materials/TrushechkinVolovich_Functional_Classical_Mechanics_V1N4_361-367.pdf
+17:21:27	Error: 	"Not Found" (404) at link ogs-seminar.narod.ru/materials/Sakbaev_TrudiMFTI_2009_01_04.PDF (from ogs-seminar.narod.ru/materials.htm)
+17:21:27	Warning: 	Retry after error -4 (Incorrect length (150592 Bytes, 355064 expected)) at link ogs-seminar.narod.ru/materials/Sakbaev_IDAQPRT_1301_P65.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:21:27	Warning: 	Retry after error -4 (Incorrect length (214304 Bytes, 515704 expected)) at link ogs-seminar.narod.ru/materials/BikchentaevMatZam2011.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:21:45	Warning: 	Retry after error -4 (Incorrect length (163624 Bytes, 1261742 expected)) at link ogs-seminar.narod.ru/photos/strekalov.JPG (from ogs-seminar.narod.ru/people.htm)
+17:21:49	Warning: 	file not stored in cache due to bogus state (broken size, expected 1375686 got 398200): ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf
+17:21:49	Warning: 	Retry after error -4 (Incorrect length (156384 Bytes, 819764 expected)) at link ogs-seminar.narod.ru/photos/starodubov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:21:58	Warning: 	file not stored in cache due to bogus state (broken size, expected 355064 got 334488): ogs-seminar.narod.ru/materials/Sakbaev_IDAQPRT_1301_P65.pdf
+17:21:58	Warning: 	Retry after error -4 (Incorrect length (160728 Bytes, 1049093 expected)) at link ogs-seminar.narod.ru/photos/lelyavin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:01	Warning: 	file not stored in cache due to bogus state (broken size, expected 515704 got 412680): ogs-seminar.narod.ru/materials/BikchentaevMatZam2011.pdf
+17:22:01	Warning: 	Retry after error -4 (Incorrect length (152040 Bytes, 1117301 expected)) at link ogs-seminar.narod.ru/photos/vasilieva.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 1261742 got 377928): ogs-seminar.narod.ru/photos/strekalov.JPG
+17:22:22	Warning: 	Retry after error -4 (Incorrect length (176656 Bytes, 939982 expected)) at link ogs-seminar.narod.ru/photos/dremov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:23	Warning: 	file not stored in cache due to bogus state (broken size, expected 819764 got 344624): ogs-seminar.narod.ru/photos/starodubov.jpg
+17:22:23	Warning: 	Retry after error -4 (Incorrect length (179552 Bytes, 1000906 expected)) at link ogs-seminar.narod.ru/photos/volkov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:34	Warning: 	file not stored in cache due to bogus state (broken size, expected 1049093 got 373584): ogs-seminar.narod.ru/photos/lelyavin.jpg
+17:22:34	Error: 	"Not Found" (404) at link ogs-seminar.narod.ru/photos/plyashechnik.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:34	Warning: 	Retry after error -4 (Incorrect length (165072 Bytes, 969655 expected)) at link ogs-seminar.narod.ru/photos/duryagin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:22:38	Warning: 	file not stored in cache due to bogus state (broken size, expected 1117301 got 363448): ogs-seminar.narod.ru/photos/vasilieva.jpg
+17:22:38	Warning: 	Retry after error -4 (Incorrect length (181000 Bytes, 1287213 expected)) at link ogs-seminar.narod.ru/photos/zevahin.JPG (from ogs-seminar.narod.ru/people.htm)
+17:22:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 939982 got 372136): ogs-seminar.narod.ru/photos/dremov.jpg
+17:22:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 1000906 got 364896): ogs-seminar.narod.ru/photos/volkov.jpg
+17:22:55	Warning: 	Retry after error -4 (Incorrect length (188240 Bytes, 1233992 expected)) at link ogs-seminar.narod.ru/photos/chugreeva.JPG (from ogs-seminar.narod.ru/people.htm)
+17:22:55	Error: 	"Not Found" (404) at link ogs-seminar.narod.ru/gb/jsmath/easy/load.js (from ogs-seminar.narod.ru/gb/2)
+17:23:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 969655 got 350416): ogs-seminar.narod.ru/photos/duryagin.jpg
+17:23:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 1287213 got 362000): ogs-seminar.narod.ru/photos/zevahin.JPG
+17:23:19	Warning: 	Retry after error 500 (Internal Server Error) at link ogs-seminar.narod.ru/index/sub/ (from ogs-seminar.narod.ru/register)
+17:23:20	Warning: 	Retry after error -4 (Incorrect length (354760 Bytes, 365056 expected)) at link ogs-seminar.narod.ru/materials/TrushechkinVolovich_Tsim288.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:21	Warning: 	Retry after error -4 (Incorrect length (364896 Bytes, 498796 expected)) at link ogs-seminar.narod.ru/materials/TrushechkinVolovich_Functional_Classical_Mechanics_V1N4_361-367.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:22	Warning: 	Retry after error -4 (Incorrect length (330144 Bytes, 1432136 expected)) at link ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 1233992 got 372136): ogs-seminar.narod.ru/photos/chugreeva.JPG
+17:23:23	Warning: 	Retry after error -4 (Incorrect length (398200 Bytes, 1375686 expected)) at link ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:23	Warning: 	Retry after error -4 (Incorrect length (334488 Bytes, 355064 expected)) at link ogs-seminar.narod.ru/materials/Sakbaev_IDAQPRT_1301_P65.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:29	Warning: 	Retry after error -4 (Incorrect length (412680 Bytes, 515704 expected)) at link ogs-seminar.narod.ru/materials/BikchentaevMatZam2011.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:23:43	Warning: 	Retry after error -4 (Incorrect length (377928 Bytes, 1261742 expected)) at link ogs-seminar.narod.ru/photos/strekalov.JPG (from ogs-seminar.narod.ru/people.htm)
+17:23:48	Warning: 	Retry after error -4 (Incorrect length (344624 Bytes, 819764 expected)) at link ogs-seminar.narod.ru/photos/starodubov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:23:52	Warning: 	file not stored in cache due to bogus state (broken size, expected 1432136 got 514040): ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf
+17:23:52	Warning: 	Retry after error -4 (Incorrect length (373584 Bytes, 1049093 expected)) at link ogs-seminar.narod.ru/photos/lelyavin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:23:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 1375686 got 587464): ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf
+17:23:55	Warning: 	Retry after error -4 (Incorrect length (363448 Bytes, 1117301 expected)) at link ogs-seminar.narod.ru/photos/vasilieva.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 1261742 got 590784): ogs-seminar.narod.ru/photos/strekalov.JPG
+17:24:20	Warning: 	Retry after error -4 (Incorrect length (372136 Bytes, 939982 expected)) at link ogs-seminar.narod.ru/photos/dremov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 1049093 got 554584): ogs-seminar.narod.ru/photos/lelyavin.jpg
+17:24:24	Warning: 	file not stored in cache due to bogus state (broken size, expected 819764 got 551688): ogs-seminar.narod.ru/photos/starodubov.jpg
+17:24:24	Warning: 	Retry after error -4 (Incorrect length (364896 Bytes, 1000906 expected)) at link ogs-seminar.narod.ru/photos/volkov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:24	Warning: 	Retry after error -4 (Incorrect length (350416 Bytes, 969655 expected)) at link ogs-seminar.narod.ru/photos/duryagin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:29	Warning: 	file not stored in cache due to bogus state (broken size, expected 1117301 got 558928): ogs-seminar.narod.ru/photos/vasilieva.jpg
+17:24:29	Warning: 	Retry after error -4 (Incorrect length (362000 Bytes, 1287213 expected)) at link ogs-seminar.narod.ru/photos/zevahin.JPG (from ogs-seminar.narod.ru/people.htm)
+17:24:51	Warning: 	file not stored in cache due to bogus state (broken size, expected 939982 got 560376): ogs-seminar.narod.ru/photos/dremov.jpg
+17:24:51	Warning: 	Retry after error -4 (Incorrect length (372136 Bytes, 1233992 expected)) at link ogs-seminar.narod.ru/photos/chugreeva.JPG (from ogs-seminar.narod.ru/people.htm)
+17:24:55	Warning: 	file not stored in cache due to bogus state (broken size, expected 1000906 got 547344): ogs-seminar.narod.ru/photos/volkov.jpg
+17:24:55	Warning: 	Retry after error 500 (Internal Server Error) at link ogs-seminar.narod.ru/index/sub/ (from ogs-seminar.narod.ru/register)
+17:24:59	Error: 	"Incorrect length (514040 Bytes, 1432136 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/materials/akbarov-ster-spaces.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:24:59	Error: 	"Incorrect length (587464 Bytes, 1375686 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/materials/akbarov-stein-groups.pdf (from ogs-seminar.narod.ru/materials.htm)
+17:24:59	Error: 	"Incorrect length (590784 Bytes, 1261742 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/strekalov.JPG (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Error: 	"Incorrect length (551688 Bytes, 819764 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/starodubov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Error: 	"Incorrect length (554584 Bytes, 1049093 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/lelyavin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Error: 	"Incorrect length (558928 Bytes, 1117301 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/vasilieva.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Error: 	"Incorrect length (560376 Bytes, 939982 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/dremov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Error: 	"Incorrect length (547344 Bytes, 1000906 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/volkov.jpg (from ogs-seminar.narod.ru/people.htm)
+17:24:59	Warning: 	file not stored in cache due to bogus state (broken size, expected 969655 got 564720): ogs-seminar.narod.ru/photos/duryagin.jpg
+17:24:59	Error: 	"Incorrect length (564720 Bytes, 969655 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/duryagin.jpg (from ogs-seminar.narod.ru/people.htm)
+17:25:05	Warning: 	file not stored in cache due to bogus state (broken size, expected 1287213 got 576304): ogs-seminar.narod.ru/photos/zevahin.JPG
+17:25:05	Error: 	"Incorrect length (576304 Bytes, 1287213 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/zevahin.JPG (from ogs-seminar.narod.ru/people.htm)
+17:25:11	Warning: 	file not stored in cache due to bogus state (broken size, expected 1233992 got 528520): ogs-seminar.narod.ru/photos/chugreeva.JPG
+17:25:11	Error: 	"Incorrect length (528520 Bytes, 1233992 expected)" (-4) after 2 retries at link ogs-seminar.narod.ru/photos/chugreeva.JPG (from ogs-seminar.narod.ru/people.htm)
+17:25:11	Error: 	"Internal Server Error" (500) after 2 retries at link ogs-seminar.narod.ru/index/sub/ (from ogs-seminar.narod.ru/register)
+
+HTTrack Website Copier/3.49-2 mirror complete in 10 minutes 36 seconds : 224 links scanned, 172 files written (6023358 bytes overall) [11483349 bytes received at 18055 bytes/sec], 1080510 bytes transferred using HTTP compression in 37 files, ratio 28%, 3.4 requests per connection
+(16 errors, 79 warnings, 0 messages)
